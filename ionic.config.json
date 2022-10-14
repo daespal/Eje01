@@ -1,0 +1,7 @@
+{
+  "name": "Eje01_GaleriaImg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
